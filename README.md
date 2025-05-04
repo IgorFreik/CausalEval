@@ -54,17 +54,3 @@ evaluator.generate_report(results)
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Citation
-
-If you use CausalEval in your research, please cite:
-
-```bibtex
-@software{causaleval2024,
-  author = {Igor Freik},
-  title = {CausalEval: Causal Inference Framework Evaluation Suite},
-  year = {2024},
-  publisher = {GitHub},
-  url = {https://github.com/IgorFreik/CausalEval}
-}
-```
