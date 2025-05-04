@@ -16,7 +16,6 @@ CausalEval is a comprehensive evaluation framework designed to benchmark and com
 - CausalML
 - EconML
 - PyMC
-- Custom implementations
 
 ## Installation
 
